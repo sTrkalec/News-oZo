@@ -1,7 +1,7 @@
 ## oZoNEWS 
 
 <p align="center">
-    <img src = "https://user-images.githubusercontent.com/57048555/168890519-91c06505-32ca-4bdb-ba31-9387913e417a.png" alt="IMG">
+    <img src = "https://user-images.githubusercontent.com/57048555/170548015-fb83afe2-3870-4422-b353-1f23222e829c.png" alt="IMG">
 </p>
 
 
